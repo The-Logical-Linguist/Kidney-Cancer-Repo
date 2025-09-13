@@ -1,0 +1,16 @@
+torch>=2.2
+torchvision>=0.17
+torchaudio>=2.2
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+scikit-learn>=1.4
+pyyaml>=6.0
+tqdm>=4.66
+lifelines>=0.27
+einops>=0.7
+networkx>=3.2
+matplotlib>=3.8
+nibabel>=5.2
+pydicom>=2.4
+SimpleITK>=2.3
